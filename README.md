@@ -10,6 +10,7 @@ Visit: https://avinashdamu321-ops.github.io/profile/
 - Interactive navigation
 - Professional portfolio sections
 - Contact information and social links
+- Updated LinkedIn: https://www.linkedin.com/in/damuavinash/
 
 ## Technologies Used
 - HTML5
